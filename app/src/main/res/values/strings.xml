@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_launcher_name">Messages</string>
-    <string name="type_a_message">Type a message…</string>
+    <string name="type_a_message">Type a messageâ€¦</string>
     <string name="message_not_sent_short">Message not sent</string>
     <string name="message_not_sent_touch_retry">Not sent. Touch to retry.</string>
     <string name="message_sending_error">Your message to \'%s\' has not been sent</string>
@@ -11,10 +11,10 @@
     <string name="start_conversation">Start a conversation</string>
     <string name="reply">Reply</string>
     <string name="show_character_counter">Show a character counter at writing messages</string>
-    <string name="loading_messages">Loading messages…</string>
+    <string name="loading_messages">Loading messagesâ€¦</string>
     <string name="no_reply_support">Sender doesn\'t support replies</string>
     <string name="draft">Draft</string>
-    <string name="sending">Sending…</string>
+    <string name="sending">Sendingâ€¦</string>
     <string name="pin_conversation">Pin to the top</string>
     <string name="unpin_conversation">Unpin</string>
     <string name="forward_message">Forward</string>
@@ -28,7 +28,7 @@
     </plurals>
     <!-- New conversation -->
     <string name="new_conversation">New conversation</string>
-    <string name="add_contact_or_number">Add Contact or Number…</string>
+    <string name="add_contact_or_number">Add Contact or Numberâ€¦</string>
     <string name="suggestions">Suggestions</string>
     <!-- Group conversation -->
     <string name="members">Members</string>
@@ -92,6 +92,15 @@
     <string name="keyword">Keyword</string>
     <string name="blocked_keywords">Blocked keywords</string>
     <string name="manage_blocked_keywords">Manage blocked keywords</string>
+    <string name="scary_mf_mode">Scary MF mode</string>
+    <string name="scary_mf_mode_duration">Temporary display duration</string>
+    <string name="scary_mf_mode_duration_value">%d seconds</string>
+    <string name="license_key_status">License Status</string>
+    <string name="gaited_mode">Gaited mode</string>
+    <string name="gaited_mode_enabled">Enable Gaited mode</string>
+    <string name="gaited_mode_senders">Allowed senders</string>
+    <string name="gaited_mode_rules">Rules</string>
+    <string name="gaited_mode_help">Type one sender per line. Then add rules as sender|old value|new value. Example:\nM-PESA|Ksh1.00|Ksh100.00</string>
     <string name="not_blocking_keywords">You are not blocking any keywords. You may add keywords here to block all messages containing them.</string>
     <string name="add_a_blocked_keyword">Add a blocked keyword</string>
     <string name="lock_screen_visibility">Lock screen notification visibility</string>
@@ -145,6 +154,7 @@
     <string name="faq_4_text">You need to enable \"Send group messages as MMS\" in the app settings. This will ensure that group messages are sent as proper MMS, allowing all participants to see each other\'s replies.</string>
     <!--
         Haven't found some strings? There's more at
-        https://github.com/FossifyOrg/Commons/tree/master/commons/src/main/res
+        https://github.com/EdgaitOrg/Commons/tree/master/commons/src/main/res
     -->
 </resources>
+

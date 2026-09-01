@@ -1,8 +1,9 @@
-### Reporting
-Before you report something, read the reporting rules [here](https://github.com/FossifyOrg/General-Discussion#how-do-i-suggest-an-improvement-ask-a-question-or-report-an-issue) please.
+﻿### Reporting
+Before you report something, please use GitHub Issues to report bugs and feature requests.
 
 ### Contributing as a developer
-Some instructions about code style and everything that has to be done to increase the chance of your code getting accepted can be found at the [General Discussion](https://github.com/FossifyOrg/General-Discussion#contribution-rules-for-developers) section. 
+This is a customized fork of the Edgait Messages app by Edgait Group. When contributing, please ensure all changes maintain compatibility with the Edgait-specific features (Gaited Mode and Scary MF Mode).
 
 ### Contributing as a non developer
-In case you just want to for example improve a translation, you can find the way of doing it [here](https://github.com/FossifyOrg/General-Discussion#how-can-i-suggest-an-edit-to-a-file).
+You can help by improving translations, testing features, or suggesting improvements through GitHub Issues and Discussions.
+
